@@ -1,0 +1,10 @@
+dev:
+  user:
+    name_login: Olá, QA
+    name_register: Olá, Teste
+  menu:
+    txt_menu: Conta e pedidos
+  recover:
+    txt_label: Esqueci a senha
+    msg_email_recover: Enviamos um link para
+   

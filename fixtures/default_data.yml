@@ -1,0 +1,12 @@
+dev:
+  register:
+    name: Teste ze
+    password: asd123@#
+    age: 19
+  search:
+    address: Av paulista
+    number: 1000
+    complement: TESTE TESTE
+    drink: CERVEJAS
+
+   
